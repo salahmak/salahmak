@@ -41,12 +41,12 @@ I'm a final high school year student, looking into going to a superior computer 
 -->
 
 ### Projects and Dev Stuffs:
-
+<div style="display: flew">
 <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salahmak&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+</div>
 
  
 <details> 
