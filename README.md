@@ -66,34 +66,34 @@ I'm a final high school year student, looking into going to a superior computer 
 <h2 align="center">Repositories</h2>
 <div style="width: 100% ;display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
   <a href="https://github.com/salahmak/Covid-19-shopping-app-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Covid-19-shopping-app-backend&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Covid-19-shopping-app-backend&theme=dark" />
   </a>
   <a href="https://github.com/salahmak/Quick-Shopping-app-for-covid-19-pandemic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Quick-Shopping-app-for-covid-19-pandemic&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Quick-Shopping-app-for-covid-19-pandemic&theme=radical" />
   </a>
   <a href="https://github.com/salahmak/refinity-cpanel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=refinity-cpanel&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=refinity-cpanel&theme=merko" />
   </a>
   <a href="https://github.com/salahmak/refinity-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=refinity-backend&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=refinity-backend&theme=gruvbox" />
   </a>
   <a href="https://github.com/salahmak/Full-stack-face-detection-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Full-stack-face-detection-app&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Full-stack-face-detection-app&theme=tokyonight" />
   </a>
   <a href="https://github.com/salahmak/fullstack-face-detection-app-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=fullstack-face-detection-app-backend&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=fullstack-face-detection-app-backend&theme=onedark" />
   </a>
   <a href="https://github.com/salahmak/phone-number-list-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=phone-number-list-generator&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=phone-number-list-generator&theme=cobalt" />
   </a>
   <a href="https://github.com/salahmak/simple-react-chatting-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=simple-react-chatting-app&theme=synthwave" />
   </a>
   <a href="https://github.com/salahmak/cpp-memory-game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=cpp-memory-game&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=cpp-memory-game&theme=highcontrast" />
   </a>
   <a href="https://github.com/salahmak/saloon-app-rest-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=saloon-app-rest-api&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=saloon-app-rest-api&theme=dracula" />
   </a>
 
 </div>
