@@ -4,8 +4,6 @@
 
 I'm a final high school year student, looking into going to a superior computer science college. I'm a self-taught programmer from Algeria who's always willing to learn and work across technologies, languages and domains. I'm a fullstack web developer, but I usually prefer backend than frontend. I'm currently learning C/C++ and trying to go deeper in programming.
 
-[![](https://gitwar.herokuapp.com/badge?username=salahmak&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="right" height="250" width="375" alt="" src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" />
 
 
