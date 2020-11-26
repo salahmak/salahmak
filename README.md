@@ -1,12 +1,6 @@
 ## Hey 👋, I'm [Salah Eddine Makdour!](https://github.com/salahmak/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/salahmak)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://salahmak.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/salahmak)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/salahmak/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/salahmak)
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=salahmak&style=flat-square&color=0088cc)
+### Welcome to my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=salahmak&style=flat-square&color=0088cc)
 
 I'm a final high school year student, looking into going to a superior computer science college. I'm a self-taught programmer from Algeria who's always willing to learn and work across technologies, languages and domains. I'm a fullstack web developer, but I usually prefer backend than frontend. I'm currently learning C/C++ and trying to go deeper in programming.
 
@@ -73,6 +67,12 @@ I'm a final high school year student, looking into going to a superior computer 
 
 <h2 align="center">Repositories</h2>
 <div style="width: 100% ;display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://github.com/salahmak/Covid-19-shopping-app-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Covid-19-shopping-app-backend&theme=synthwave" />
+  </a>
+  <a href="https://github.com/salahmak/Quick-Shopping-app-for-covid-19-pandemic">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Quick-Shopping-app-for-covid-19-pandemic&theme=synthwave" />
+  </a>
   <a href="https://github.com/salahmak/refinity-cpanel">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=refinity-cpanel&theme=synthwave" />
   </a>
@@ -97,10 +97,5 @@ I'm a final high school year student, looking into going to a superior computer 
   <a href="https://github.com/salahmak/saloon-app-rest-api">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=saloon-app-rest-api&theme=synthwave" />
   </a>
-  <a href="https://github.com/salahmak/Covid-19-shopping-app-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Covid-19-shopping-app-backend&theme=synthwave" />
-  </a>
-  <a href="https://github.com/salahmak/Quick-Shopping-app-for-covid-19-pandemic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salahmak&repo=Quick-Shopping-app-for-covid-19-pandemic&theme=synthwave" />
-  </a>
+
 </div>
