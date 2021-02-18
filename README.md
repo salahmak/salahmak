@@ -8,14 +8,14 @@ I'm a final high school year student, looking into going to a superior computer 
 
 
 ### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I'm a MERN stack web developer (Mongodb, Expressjs, Reactjs, Nodejs).
+- 💻 &nbsp; I'm a C++ software developer.
+- 👾 &nbsp; I'm into game engine development.
+- 🛠 &nbsp; I'm also a MERN stack web developer (Mongodb, Expressjs, Reactjs, Nodejs).
 - 🚀 &nbsp; I'm capable of making: Server side-rendered apps (nextjs), Single page apps, Nodejs backends and REST apis, Discord bots.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/salahmak).
+- 👨🏻‍ &nbsp; Most of my projects are available on [Github](https://github.com/salahmak).
 - 💬 &nbsp; I'm currently into learning and doing software development (C/C++, Python).
 - 👾 &nbsp; Fun fact: I've learned python just by using my Javascript knowledge.
-- 👾 &nbsp; Fun fact: I'm lazy to finish the shopping app.
-- 📝 &nbsp; I use linux (Debian), yeah Wndows sucks.
+- 📝 &nbsp; I use linux (Arch), yeah Wndows sucks.
 - 📝 &nbsp; I'm interested in security and privacy.
 
 ### My Absolute Favorites:
