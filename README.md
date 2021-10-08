@@ -2,7 +2,7 @@
 
 ### Welcome to my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=salahmak&style=flat-square&color=0088cc)
 
-I'm a final high school year student, looking into going to a superior computer science college. I'm a self-taught programmer from Algeria who's always willing to learn and work across technologies, languages and domains. I'm a fullstack web developer, but I usually prefer backend than frontend. I'm currently learning C/C++ and trying to go deeper in programming.
+I'm a student in the first year of the higher school of artificial intelligence (ENSIA). I'm a self-taught programmer from Algeria who's always willing to learn and work across technologies, languages and domains. I'm a fullstack web developer, but I usually prefer backend than frontend. I'm currently learning C/C++ and trying to go deeper in programming.
 
 <img align="right" height="250" width="375" alt="" src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" />
 
@@ -15,8 +15,8 @@ I'm a final high school year student, looking into going to a superior computer 
 - 👨🏻‍ &nbsp; Most of my projects are available on [Github](https://github.com/salahmak).
 - 💬 &nbsp; I'm currently into learning and doing software development (C/C++, Python).
 - 👾 &nbsp; Fun fact: I've learned python just by using my Javascript knowledge.
-- 📝 &nbsp; I use linux (Arch), yeah Wndows sucks.
-- 📝 &nbsp; I'm interested in security and privacy.
+- 📝 &nbsp; I use linux (Arch btw).
+- 📝 &nbsp; I'm interested in software freedom and privacy.
 
 ### My Absolute Favorites:
 
