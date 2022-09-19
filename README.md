@@ -28,12 +28,12 @@ I'm a student in the second year of the higher school of artificial intelligence
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/49586511/191092369-b0b89db2-578e-47c3-8744-89ced02239b8.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/49586511/191092159-c1b58cbe-0b1d-427b-9698-6646814cf53a.png" alt="nextjs"></code>
 
 ### Projects and Dev Stuffs:
 
@@ -43,9 +43,10 @@ I'm a student in the second year of the higher school of artificial intelligence
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
+
 ### Tools and Stuff:
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" alt="vim"></code>
 <code><img height="27" src="https://iconape.com/wp-content/files/yy/99728/svg/sublime-text.svg" alt="sublime"></code>
-<code><img height="27" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-512.png" alt="debian"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/49586511/191092826-d55c630f-f634-49b2-a80b-8dbf7c61a39d.png" alt="debian"></code>
