@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Salah Eddine Makdour!
 
-## 🌟 Fullstack Web Developer | Flutter Mobile Enthusiast | AI & Data Science Buff 🌟
+## Software and AI Engineer
 
 I'm a passionate **Fullstack Web Developer** and **Flutter Mobile Developer** currently in my 4th year at [The National School of Artificial Intelligence](ensia.edu.dz). I'm currently diving deep into the world of **AI** and **Data Science** or exploring new tech trends. 🚀
 
@@ -8,16 +8,10 @@ I'm a passionate **Fullstack Web Developer** and **Flutter Mobile Developer** cu
 
 - **🔧 Fullstack Web Development**: From backend to frontend, I build seamless web experiences.
 - **📱 Flutter Mobile Development**: Crafting beautiful and high-performance mobile apps with Flutter.
-- **📚 4th Year Student at [The National School of Artificial Intelligence](ensia.edu.dz)**: Learning, growing, and preparing for the tech world.
+- **📚 Final Year Student at [The National School of Artificial Intelligence](ensia.edu.dz)**: Learning, growing, and preparing for the tech world.
 - **🌟 Founder of [Notiverse App](https://notiverse.app)**: The next generation of notes taking and organization.
 - **🤖 AI & Data Science Enthusiast**: Exploring the endless possibilities of artificial intelligence and data science.
 - **💼 Freelancer**: Offering my skills to bring your projects to life and solve real-world problems.
-
-### 🛠️ Technologies & Tools I Love:
-
-- **Languages**: Dart, Python, TypeScript, C/C++.
-- **Frameworks**: React, Nextjs, Express, Flutter.
-- **Tools**: Git, Docker, Supabase, Firebase.
 
 ### 🌟 Let's Connect!
 
