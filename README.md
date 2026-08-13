@@ -69,8 +69,10 @@ Currently a **Software Engineer** at Dusens Research, building internal software
 
 ### 📊 GitHub Stats
 
-![Salah's GitHub stats](https://github-readme-stats.vercel.app/api?username=salahmak&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahmak&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+![Streak](https://streak-stats.demolab.com/?user=salahmak&hide_border=true&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salahmak&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salahmak&theme=tokyonight)
 
 </div>
 
