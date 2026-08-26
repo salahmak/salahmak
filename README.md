@@ -6,7 +6,7 @@
 
 *I build AI systems & web products that ship — from LLM-powered platforms and computer vision on edge devices to full-stack web & mobile apps. Idea → deployed, working software.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/salahmak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://salahmak.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-eddine-makdour-091081235)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salah.mak@protonmail.com)
 
